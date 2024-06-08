@@ -1,5 +1,4 @@
 # Python_lessons
-# Python_Lessons
 
 This repository contains the Python tutorial codebase from my course.
 
